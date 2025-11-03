@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack e Data Engineer`**
 
-Olá👋! Me chamo Jessica Witzler Costacurta, tenho 23 anos e sou de São Paulo/SP. Atualmente, estou cursando Engenharia de Software. Sou apaixonada por tecnologia e tenho experiência no desenvolvimento de aplicações completas além de gostar de trabalhar com dados para gerar insights e otimizar soluções. Você pode me encontrar no meu perfil do LinkedIn: "[Jessica Witzler](www.linkedin.com/in/jessica-witzle)".
+Olá👋! Me chamo Jessica Witzler Costacurta, tenho 23 anos e sou de São Paulo/SP. Atualmente, estou cursando Engenharia de Software. Sou apaixonada por tecnologia e tenho experiência no desenvolvimento de aplicações completas além de gostar de trabalhar com dados para gerar insights e otimizar soluções. Você pode me encontrar no meu perfil do LinkedIn: "[Jessica Witzler](www.linkedin.com/in/jessica-witzler)".
 
 <p align="left">
     <a href="https://github.com/JessicaWitzlerI?tab=repositories&sort=stargazers">
